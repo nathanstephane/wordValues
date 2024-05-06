@@ -1,3 +1,5 @@
+Clone the project then,
+
 # Compilation
 inside of the root directory. run make from the terminal
 
