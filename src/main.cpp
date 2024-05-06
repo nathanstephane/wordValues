@@ -1,3 +1,8 @@
+/**
+ * BETCHE NATHAN STEPHANE
+ * nathanstephaneth@gmail.com
+*/
+
 #include <iostream>
 #include "Logger.hpp"
 #include "cmdParser.hpp"

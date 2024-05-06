@@ -13,7 +13,7 @@ compile:
 	g++  $(CFLAGS) -I./include/ -c src/*.cpp 
 
 link:
-#	g++ main.o -o main -Lsrc/lib -lsfml-graphics -lsfml-window -lsfml-system
+
 	g++  $(OBJ)  -o bin/$(PROG) 
 
 run:
