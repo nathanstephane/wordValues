@@ -1,0 +1,111 @@
+
+ ----------Logger as of Mon May 06 20:38:13 2024----------
+[INFO:Mon May 06 20:38:13 2024] Successfully parsed cmd arguments
+[INFO:Mon May 06 20:38:13 2024] Successfully opened input file.
+[INFO:Mon May 06 20:38:13 2024] successfully opened values file.
+[INFO:Mon May 06 20:38:13 2024] processing Dès
+[INFO:Mon May 06 20:38:13 2024] processing Noël,
+[INFO:Mon May 06 20:38:13 2024] processing où
+[INFO:Mon May 06 20:38:13 2024] processing un
+[INFO:Mon May 06 20:38:13 2024] processing zéphyr
+[INFO:Mon May 06 20:38:13 2024] processing haï
+[INFO:Mon May 06 20:38:13 2024] processing me
+[INFO:Mon May 06 20:38:13 2024] processing vêt
+[INFO:Mon May 06 20:38:13 2024] processing de
+[INFO:Mon May 06 20:38:13 2024] processing glaçons
+[INFO:Mon May 06 20:38:13 2024] processing würmiens,
+[INFO:Mon May 06 20:38:13 2024] processing je
+[INFO:Mon May 06 20:38:13 2024] processing dîne
+[INFO:Mon May 06 20:38:13 2024] processing d’exquis
+[INFO:Mon May 06 20:38:13 2024] processing rôtis
+[INFO:Mon May 06 20:38:13 2024] processing de
+[INFO:Mon May 06 20:38:13 2024] processing bœuf
+[INFO:Mon May 06 20:38:13 2024] processing au
+[INFO:Mon May 06 20:38:13 2024] processing kir,
+[INFO:Mon May 06 20:38:13 2024] processing à
+[INFO:Mon May 06 20:38:13 2024] processing l’aÿ
+[INFO:Mon May 06 20:38:13 2024] processing d’âge
+[INFO:Mon May 06 20:38:13 2024] processing mûr,
+[INFO:Mon May 06 20:38:13 2024] processing &cætera
+[INFO:Mon May 06 20:38:13 2024] successfully opened words
+[INFO:Mon May 06 20:38:13 2024] successfully wrote to file: au with value : 16
+[INFO:Mon May 06 20:38:13 2024] successfully wrote to file: un with value : 17
+[INFO:Mon May 06 20:38:13 2024] successfully wrote to file: haï with value : 17
+[INFO:Mon May 06 20:38:13 2024] successfully wrote to file: de with value : 18
+[INFO:Mon May 06 20:38:13 2024] successfully wrote to file: de with value : 18
+[INFO:Mon May 06 20:38:13 2024] successfully wrote to file: l’aÿ with value : 22
+[INFO:Mon May 06 20:38:13 2024] successfully wrote to file: je with value : 29
+[INFO:Mon May 06 20:38:13 2024] successfully wrote to file: bœuf with value : 30
+[INFO:Mon May 06 20:38:13 2024] successfully wrote to file: d’âge with value : 31
+[INFO:Mon May 06 20:38:13 2024] successfully wrote to file: me with value : 33
+[INFO:Mon May 06 20:38:13 2024] successfully wrote to file: &cætera with value : 39
+[INFO:Mon May 06 20:38:13 2024] successfully wrote to file: kir, with value : 48
+[INFO:Mon May 06 20:38:13 2024] successfully wrote to file: à with value : 63
+[INFO:Mon May 06 20:38:13 2024] successfully wrote to file: où with value : 70
+[INFO:Mon May 06 20:38:13 2024] successfully wrote to file: dîne with value : 88
+[INFO:Mon May 06 20:38:13 2024] successfully wrote to file: vêt with value : 93
+[INFO:Mon May 06 20:38:13 2024] successfully wrote to file: d’exquis with value : 94
+[INFO:Mon May 06 20:38:13 2024] successfully wrote to file: mûr, with value : 98
+[INFO:Mon May 06 20:38:14 2024] successfully wrote to file: Dès with value : 113
+[INFO:Mon May 06 20:38:14 2024] successfully wrote to file: glaçons with value : 121
+[INFO:Mon May 06 20:38:14 2024] successfully wrote to file: rôtis with value : 123
+[INFO:Mon May 06 20:38:14 2024] successfully wrote to file: Noël, with value : 127
+[INFO:Mon May 06 20:38:14 2024] successfully wrote to file: zéphyr with value : 142
+[INFO:Mon May 06 20:38:14 2024] successfully wrote to file: würmiens, with value : 166
+[INFO:Mon May 06 20:38:14 2024] -----Processed 24 words out of 24
+
+ ----------Logger as of Mon May 06 21:07:38 2024----------
+[INFO:Mon May 06 21:07:38 2024] Successfully parsed cmd arguments
+[INFO:Mon May 06 21:07:38 2024] Successfully opened input file.
+[INFO:Mon May 06 21:07:38 2024] successfully opened values file.
+[INFO:Mon May 06 21:07:38 2024] processing Dès
+[INFO:Mon May 06 21:07:38 2024] processing Noël,
+[INFO:Mon May 06 21:07:38 2024] processing où
+[INFO:Mon May 06 21:07:38 2024] processing un
+[INFO:Mon May 06 21:07:38 2024] processing zéphyr
+[INFO:Mon May 06 21:07:38 2024] processing haï
+[INFO:Mon May 06 21:07:38 2024] processing me
+[INFO:Mon May 06 21:07:38 2024] processing vêt
+[INFO:Mon May 06 21:07:38 2024] processing de
+[INFO:Mon May 06 21:07:38 2024] processing glaçons
+[INFO:Mon May 06 21:07:38 2024] processing würmiens,
+[INFO:Mon May 06 21:07:38 2024] processing je
+[INFO:Mon May 06 21:07:38 2024] processing dîne
+[INFO:Mon May 06 21:07:38 2024] processing d’exquis
+[INFO:Mon May 06 21:07:38 2024] processing rôtis
+[INFO:Mon May 06 21:07:38 2024] processing de
+[INFO:Mon May 06 21:07:38 2024] processing bœuf
+[INFO:Mon May 06 21:07:38 2024] processing au
+[INFO:Mon May 06 21:07:38 2024] processing kir,
+[INFO:Mon May 06 21:07:38 2024] processing à
+[INFO:Mon May 06 21:07:38 2024] processing l’aÿ
+[INFO:Mon May 06 21:07:38 2024] processing d’âge
+[INFO:Mon May 06 21:07:38 2024] processing mûr,
+[INFO:Mon May 06 21:07:38 2024] processing &cætera
+[INFO:Mon May 06 21:07:38 2024] successfully opened words
+[INFO:Mon May 06 21:07:38 2024] successfully wrote to file: au with value : 16
+[INFO:Mon May 06 21:07:38 2024] successfully wrote to file: un with value : 17
+[INFO:Mon May 06 21:07:38 2024] successfully wrote to file: haï with value : 17
+[INFO:Mon May 06 21:07:38 2024] successfully wrote to file: de with value : 18
+[INFO:Mon May 06 21:07:38 2024] successfully wrote to file: de with value : 18
+[INFO:Mon May 06 21:07:38 2024] successfully wrote to file: l’aÿ with value : 22
+[INFO:Mon May 06 21:07:38 2024] successfully wrote to file: je with value : 29
+[INFO:Mon May 06 21:07:38 2024] successfully wrote to file: bœuf with value : 30
+[INFO:Mon May 06 21:07:38 2024] successfully wrote to file: d’âge with value : 31
+[INFO:Mon May 06 21:07:38 2024] successfully wrote to file: me with value : 33
+[INFO:Mon May 06 21:07:38 2024] successfully wrote to file: &cætera with value : 39
+[INFO:Mon May 06 21:07:38 2024] successfully wrote to file: kir, with value : 48
+[INFO:Mon May 06 21:07:38 2024] successfully wrote to file: à with value : 63
+[INFO:Mon May 06 21:07:38 2024] successfully wrote to file: où with value : 70
+[INFO:Mon May 06 21:07:38 2024] successfully wrote to file: dîne with value : 88
+[INFO:Mon May 06 21:07:38 2024] successfully wrote to file: vêt with value : 93
+[INFO:Mon May 06 21:07:38 2024] successfully wrote to file: d’exquis with value : 94
+[INFO:Mon May 06 21:07:38 2024] successfully wrote to file: mûr, with value : 98
+[INFO:Mon May 06 21:07:38 2024] successfully wrote to file: Dès with value : 113
+[INFO:Mon May 06 21:07:38 2024] successfully wrote to file: glaçons with value : 121
+[INFO:Mon May 06 21:07:38 2024] successfully wrote to file: rôtis with value : 123
+[INFO:Mon May 06 21:07:38 2024] successfully wrote to file: Noël, with value : 127
+[INFO:Mon May 06 21:07:38 2024] successfully wrote to file: zéphyr with value : 142
+[INFO:Mon May 06 21:07:38 2024] successfully wrote to file: würmiens, with value : 166
+[INFO:Mon May 06 21:07:38 2024] -----Total words values processed = 1616
+[INFO:Mon May 06 21:07:38 2024] -----Processed 24 words out of 24
